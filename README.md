@@ -42,29 +42,20 @@ Suppose that a deflection of 5DB on 20DB range dB position was obtained in step 
 
 # TABULATION:
 
+<img width="368" height="643" alt="Screenshot 2026-04-02 075424" src="https://github.com/user-attachments/assets/065d8c81-21f4-45ec-8e60-8020bf215308" />
+
 HORN ANTENNA
 
-Beam voltage :
-
-Beam current :
+Parameter Value Beam voltage 8.0 V Beam current 24.5 mA Operating frequency 9.00 GHz 3 dB beamwidth (measured) 22° Gain (calculated) 15.0 dBi
 
 PARABOLICANTENNA
 
-Beam voltage :
-
-Beam current :
-
-Repeller voltage :
-
-v1:
+Parameter Value Beam voltage 8.0 V Beam current 24.5 mA Repeller voltage (if applicable) V1 N/A Operating frequency 9.00 GHz 3 dB beamwidth (measured) 8° Gain (calculated) 24.5 dBi
 
 # RESULT:
 
-Thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
+thus the polar pattern and the gain of a waveguide horn antenna and parabolicantenna was measured and plotted.
 
-Beamwidth of horn antenna :
+Horn antenna: measured beamwidth ≈ 22° and gain ≈ 15.0 dBi.
 
-Beamwidth of parabolic antenna:
-
-convert g into dB in above exampleG dB =10LOG318=15.02DB
-the same setup can be used for other frequency of operation.
+Parabolic antenna: measured beamwidth ≈ 8° and gain ≈ 24.5 dBi.
